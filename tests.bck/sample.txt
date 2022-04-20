@@ -1,0 +1,9 @@
+we want to be cautious, so we prefer it if it's very clearly a path:
+mode 1: /home/JohnSmith/path/to/file
+
+sometimes a path might just be the home folder:
+mode 2: /home/JohnSmith
+
+sometimes, it might just be references to a name,
+which you still want to replace:
+mode 3: JohnSmith with alex
